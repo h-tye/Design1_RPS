@@ -25,4 +25,4 @@ The easiest and most basic way to use this project is to tie the inputs to a dip
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware other than what is mentioned above will be needed.
